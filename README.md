@@ -7,7 +7,6 @@ D:\spring-study\executable-jar\out\production\executable-jar>jar cfmv demo.jar M
 正在添加: cn/dubby/executable/jar/Main.class(输入 = 751) (输出 = 470)(压缩了 37%)
 正在添加: cn/dubby/executable/jar/random/(输入 = 0) (输出 = 0)(存储了 0%)
 正在添加: cn/dubby/executable/jar/random/DubbyRandom.class(输入 = 714) (输出 = 452)(压缩了 36%)
-
 ```
 
 ```
@@ -24,3 +23,9 @@ MANIFEST.MF
 Hello, World.
 Hello, World.
 ```
+
+[Setting an Application's Entry Point](https://docs.oracle.com/javase/tutorial/deployment/jar/appman.html)
+
+[Using JAR Files: The Basics](https://docs.oracle.com/javase/tutorial/deployment/jar/basicsindex.html)
+
+[Creating a JAR File](https://docs.oracle.com/javase/tutorial/deployment/jar/build.html)
