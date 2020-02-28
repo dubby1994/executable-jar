@@ -8,6 +8,9 @@ D:\spring-study\executable-jar\out\production\executable-jar>jar cfmv demo.jar M
 正在添加: cn/dubby/executable/jar/random/(输入 = 0) (输出 = 0)(存储了 0%)
 正在添加: cn/dubby/executable/jar/random/DubbyRandom.class(输入 = 714) (输出 = 452)(压缩了 36%)
 
+```
+
+```
 D:\spring-study\executable-jar\out\production\executable-jar>java -jar demo.jar
 Hello, World.
 jar cmf jar-file existing-manifest input-file(s)
