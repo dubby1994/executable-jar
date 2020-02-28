@@ -24,8 +24,8 @@ Hello, World.
 Hello, World.
 ```
 
-[Setting an Application's Entry Point](https://docs.oracle.com/javase/tutorial/deployment/jar/appman.html)
+## 参考
 
-[Using JAR Files: The Basics](https://docs.oracle.com/javase/tutorial/deployment/jar/basicsindex.html)
-
-[Creating a JAR File](https://docs.oracle.com/javase/tutorial/deployment/jar/build.html)
++ [Setting an Application's Entry Point](https://docs.oracle.com/javase/tutorial/deployment/jar/appman.html)
++ [Using JAR Files: The Basics](https://docs.oracle.com/javase/tutorial/deployment/jar/basicsindex.html)
++ [Creating a JAR File](https://docs.oracle.com/javase/tutorial/deployment/jar/build.html)
